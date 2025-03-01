@@ -21,6 +21,7 @@ public class GUI extends JFrame {
         add(mainPanel);
 
         menuBar();
+        testR();
 
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setVisible(true);
