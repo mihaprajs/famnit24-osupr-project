@@ -8,7 +8,7 @@ Practice assistant: Domen Vake
 
 ## Intro
 
-The repository serves as a personal archive of all code written during the course of OSUPR at UP FAMNIT. The code is written in Pyton and TypeScript (or Java), using VS Code and Intellij Idea as the IDEs.
+The repository serves as a personal archive of all code written during the course of OSUPR at UP FAMNIT. The code is written in Java and R, using VS Code and Intellij Idea as the IDEs.
 
 **!!! Code in this repository is fully working - it’s only shared !!! after !!! submitting our project. Use or copy at your risk !!!**
 

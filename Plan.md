@@ -10,7 +10,7 @@
 - [ ] Implementacija k-NN algoritema v Javi:
   - [ ] Implementacija različnih razdalj za računanje oddaljenosti
 - [ ] Implementacija k-NN v R
-- [x] GUI:
+- [ ] GUI:
   - [x] Gumb za testiranje okolja (Test button) (25/02/2025)
   - [ ] Vnosne vrstice
 
