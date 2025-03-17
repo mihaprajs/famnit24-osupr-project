@@ -16,7 +16,7 @@ The repository serves as a personal archive of all code written during the cours
 
 ## About Project
 
-This is a project where I attempt to create AI application that could perform basic tasks. The AI was built using machine learning techniques, with a focus on training them to recognize patterns and provide responses based on user input. The project aimed to explore the fundamentals of AI, including data preprocessing, model training, and evaluation, while applying theoretical knowledge to practical systems.
+This is a project where I attempt to create AI application that could perform basic tasks outlined in [Nacrt.pdf](Nacrt.pdf). The AI was built using machine learning techniques, with a focus on training them to recognize patterns and provide responses based on user input. The project aimed to explore the fundamentals of AI, including data preprocessing, model training, and evaluation, while applying theoretical knowledge to practical systems.
 
 <!---
 ## Folder structure
