@@ -10,7 +10,7 @@ Practice assistant: Domen Vake
 
 The repository serves as a personal archive of all code written during the course of OSUPR at UP FAMNIT. The code is written in Java and R, using VS Code and Intellij Idea as the IDEs.
 
-**!!! Code in this repository is fully working - it’s only shared !!! after !!! submitting our project. Use or copy at your risk !!!**
+**!!! Code in this repository is fully working - it’s only shared !!! after !!! submitting my project. Use or copy at your risk !!!**
 
 **FOR "I AM THE SMARTEST IDIOT" CLASSMATE(S): this IS NOT a free ride for your project. When you get caught using my gigabrain, I'll proudly wave this repository, timestamps, hidden indicators, as proof of my originality while you get a front-row seat to your ethics hearing. Consider yourself warned 💅**
 
