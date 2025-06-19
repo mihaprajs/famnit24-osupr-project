@@ -1,6 +1,7 @@
 package osupr.project;
 
-import java.util.*;
+
+import java.util.Comparator;
 
 public class Knn {
     private final int k;
@@ -39,7 +40,7 @@ public class Knn {
         }
 
         // Sort distances
-        java.util.Arrays.sort(distances, (a, b) -> Double.compare(a[0], b[0]));
+        java.util.Arrays.sort(distances, Comparator.comparingDouble(a -> a[0]));
 
         // Count class occurrences in k nearest neighbors
         int[] classCounts = new int[10]; // assuming class labels are small integers (e.g., 0-9)
