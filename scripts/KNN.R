@@ -25,6 +25,7 @@ prediction<-knn(train=trainSetScaled,
                 k=3)
 actualClass<-testSet$class
 confusionMatrix<-table(actualClass,prediction)
+print("Confusion matrix:")
 confusionMatrix
 
 accuracy<-sum(diag(confusionMatrix))/length(actualClass)
